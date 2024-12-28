@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2c21008a829214d33a57e89e5666f43f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276683
+  packageName: 'Free Scripts Vault: A Time Saver Pack'
+  packageVersion: 1.0
+  assetPath: Assets/ScriptsVault-ProjektSumperk/LoadFromResource/Resources/mydata.json
+  uploadId: 642837

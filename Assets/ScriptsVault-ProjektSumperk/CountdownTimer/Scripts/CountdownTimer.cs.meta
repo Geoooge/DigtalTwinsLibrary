@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2bc754e35a89f4cda9eeb2c44ed49890
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276683
+  packageName: 'Free Scripts Vault: A Time Saver Pack'
+  packageVersion: 1.0
+  assetPath: Assets/ScriptsVault-ProjektSumperk/CountdownTimer/Scripts/CountdownTimer.cs
+  uploadId: 642837

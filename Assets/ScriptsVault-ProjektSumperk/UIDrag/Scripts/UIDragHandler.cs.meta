@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c23bfeda0f159468a86e5e16944bee45
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276683
+  packageName: 'Free Scripts Vault: A Time Saver Pack'
+  packageVersion: 1.0
+  assetPath: Assets/ScriptsVault-ProjektSumperk/UIDrag/Scripts/UIDragHandler.cs
+  uploadId: 642837

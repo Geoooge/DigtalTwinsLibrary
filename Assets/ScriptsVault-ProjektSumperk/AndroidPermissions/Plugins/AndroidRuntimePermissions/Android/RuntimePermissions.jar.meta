@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: a31142115a9b6914f9d177e522e28744
+timeCreated: 1524857130
+licenseType: Store
+PluginImporter:
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+    data:
+      first:
+        Android: Android
+      second:
+        enabled: 1
+        settings: {}
+    data:
+      first:
+        Any: 
+      second:
+        enabled: 0
+        settings: {}
+    data:
+      first:
+        Editor: Editor
+      second:
+        enabled: 0
+        settings:
+          DefaultValueInitialized: true
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276683
+  packageName: 'Free Scripts Vault: A Time Saver Pack'
+  packageVersion: 1.0
+  assetPath: Assets/ScriptsVault-ProjektSumperk/AndroidPermissions/Plugins/AndroidRuntimePermissions/Android/RuntimePermissions.jar
+  uploadId: 642837

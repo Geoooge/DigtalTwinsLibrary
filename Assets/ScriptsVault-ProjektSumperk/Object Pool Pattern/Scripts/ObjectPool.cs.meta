@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 27571e89c1a02014c9b647ccf20861eb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276683
+  packageName: 'Free Scripts Vault: A Time Saver Pack'
+  packageVersion: 1.0
+  assetPath: Assets/ScriptsVault-ProjektSumperk/Object Pool Pattern/Scripts/ObjectPool.cs
+  uploadId: 642837

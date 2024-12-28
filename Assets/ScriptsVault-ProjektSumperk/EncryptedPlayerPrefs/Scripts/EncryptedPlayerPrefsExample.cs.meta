@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 77b30e2a985a54b37aeec95dd9baa221
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276683
+  packageName: 'Free Scripts Vault: A Time Saver Pack'
+  packageVersion: 1.0
+  assetPath: Assets/ScriptsVault-ProjektSumperk/EncryptedPlayerPrefs/Scripts/EncryptedPlayerPrefsExample.cs
+  uploadId: 642837

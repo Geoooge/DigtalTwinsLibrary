@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5b4466a3f9cec42c795c64f9d7c9ad35
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276683
+  packageName: 'Free Scripts Vault: A Time Saver Pack'
+  packageVersion: 1.0
+  assetPath: Assets/ScriptsVault-ProjektSumperk/CameraController/Scripts/AdvancedCameraController.cs
+  uploadId: 642837

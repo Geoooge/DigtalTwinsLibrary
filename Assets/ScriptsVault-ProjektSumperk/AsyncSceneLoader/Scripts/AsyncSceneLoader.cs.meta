@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1810e3d781c2544a89bce800391bed6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276683
+  packageName: 'Free Scripts Vault: A Time Saver Pack'
+  packageVersion: 1.0
+  assetPath: Assets/ScriptsVault-ProjektSumperk/AsyncSceneLoader/Scripts/AsyncSceneLoader.cs
+  uploadId: 642837

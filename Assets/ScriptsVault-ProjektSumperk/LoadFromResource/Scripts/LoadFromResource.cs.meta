@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 94360d6be76ae47b39b5cae23101b77a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276683
+  packageName: 'Free Scripts Vault: A Time Saver Pack'
+  packageVersion: 1.0
+  assetPath: Assets/ScriptsVault-ProjektSumperk/LoadFromResource/Scripts/LoadFromResource.cs
+  uploadId: 642837

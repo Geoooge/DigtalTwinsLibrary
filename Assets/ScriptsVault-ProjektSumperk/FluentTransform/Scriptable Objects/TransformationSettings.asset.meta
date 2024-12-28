@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10753b283f13546648a47e15c6186c60
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276683
+  packageName: 'Free Scripts Vault: A Time Saver Pack'
+  packageVersion: 1.0
+  assetPath: Assets/ScriptsVault-ProjektSumperk/FluentTransform/Scriptable Objects/TransformationSettings.asset
+  uploadId: 642837
