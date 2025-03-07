@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 1b5cf8f2d5ad5e84da2f257babb2d8b9
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_20_mat
+    second: {fileID: 2100000, guid: 4b2fdd728f493794facb8420be6bff80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_21_mat.4
+    second: {fileID: 2100000, guid: 4e098b24c71dc98419f3f5905e42eb05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_21_mat.5
+    second: {fileID: 2100000, guid: 2bf20b1881127cf43b7d4b2e182eac1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_227_mat
+    second: {fileID: 2100000, guid: f5cb81d3a5cd20941bbb18e3c9220513, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_261_mat
+    second: {fileID: 2100000, guid: 8519f2f87fba6af49b435f21c3f29611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_508_mat
+    second: {fileID: 2100000, guid: ac39435727e60e242a3453dc59b4e5d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_532_mat
+    second: {fileID: 2100000, guid: dfb1b11c38f434a47a3ee03a7c57c40e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_533_mat
+    second: {fileID: 2100000, guid: 4f0368a3df03173458b0bfbf05027bb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_534_mat
+    second: {fileID: 2100000, guid: 96f134ffbe5f2aa4ebdb00f0b7a08727, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_535_mat
+    second: {fileID: 2100000, guid: 882a109c4bf7ace449f55c2574f8ad9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_559_mat
+    second: {fileID: 2100000, guid: a2ead9d4cda2d144f9f448dfec464c58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_634_mat
+    second: {fileID: 2100000, guid: d81cc818e0980c343859924cef8ca58a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_654_mat
+    second: {fileID: 2100000, guid: 38dbae63372e0c04db282d826f419c06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_6_mat.1
+    second: {fileID: 2100000, guid: adc3447222aa3884789533989ceeaa97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_90_mat
+    second: {fileID: 2100000, guid: 72e1525f631194c4fbf14b7b0caf7635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_car_9SG_1_mat.1
+    second: {fileID: 2100000, guid: 28f15b4a92886ee41a3697f2a43a33c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lwpg106_1_mat.1
+    second: {fileID: 2100000, guid: 91d4613078d932044868ac7f3720373b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lwpg110_1_mat.1
+    second: {fileID: 2100000, guid: b2fc498fdb625f843bdcfd9b81081de7, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lawn 1
+    second: {fileID: 2800000, guid: 5bff2a61c3ef94d4e95e43f8d5be0fbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: asphalt_14x14m
+    second: {fileID: 2800000, guid: 7a08a50340ce9eb4f94c2b1341c0cbf0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: asphalt_painted_terracotta_7x7m
+    second: {fileID: 2800000, guid: d995bd16d9a12e54f954379e17f1d9c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flatRoof_11
+    second: {fileID: 2800000, guid: f2e0c6a8c00f3c347b308318bd6fff61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flatRoof_23
+    second: {fileID: 2800000, guid: 7ecb359ab66bc854fb981e36caf1b04c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flatRoof_36
+    second: {fileID: 2800000, guid: 3c500889180d2e94da9d4cd5480097d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: g_f001_t004_Residential_003
+    second: {fileID: 2800000, guid: b6ed674f3cd8ee547b681a432f4656ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: g_f001_t006_Mercantile_014
+    second: {fileID: 2800000, guid: 22583247177dacc41b6b66dad5e81f52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ground_green
+    second: {fileID: 2800000, guid: 6148704dd4a134546bb4776b775aa801, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lwpg009
+    second: {fileID: 2800000, guid: 0b644614c76190a4387902b0402f7833, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lwpg106d
+    second: {fileID: 2800000, guid: 116a2470e7c296c419c9671f3601889d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lwpg110d
+    second: {fileID: 2800000, guid: 2c884f270be275b42892713f9a5671d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: parkingWhiteSingleLine
+    second: {fileID: 2800000, guid: 1d80ae8f42164d1489c714d2100f3727, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: parking_01
+    second: {fileID: 2800000, guid: 796a0103c2f8e3a4ca1aeb444ce3fe04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: street_4lanes_stripes
+    second: {fileID: 2800000, guid: e263c4e1911cf10429abaa36bcefadd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: u_f008_t004_Other_000
+    second: {fileID: 2800000, guid: 20c74ed0bf4371547a921e497e455855, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: u_f008_t020_Public_000
+    second: {fileID: 2800000, guid: 881d33917fed6274f8e329bf1f95f230, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
